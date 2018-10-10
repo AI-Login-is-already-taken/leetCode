@@ -8,6 +8,9 @@ import java.util.Arrays;
 例如，给定数组 nums = [-1，2，1，-4], 和 target = 1.
 
 与 target 最接近的三个数的和为 2. (-1 + 2 + 1 = 2).
+
+leetCode地址:
+https://leetcode-cn.com/problems/3sum/
  * */
 public class SumOfThreeClosest {
 	public static void main(String args[]) {

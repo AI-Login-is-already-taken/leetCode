@@ -2,7 +2,6 @@ package com.sample.array;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.List;
 
 /*
@@ -17,6 +16,8 @@ import java.util.List;
   [-1, 0, 1],
   [-1, -1, 2]
 ]
+leetCode地址:
+https://leetcode-cn.com/problems/3sum/
  * 
  * */
 public class SumOfThree {
